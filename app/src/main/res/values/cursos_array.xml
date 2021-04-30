@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cursos_qbo">
+        <item>Seleccione</item>
+        <item>Net Core</item>
+        <item>Angular</item>
+        <item>React</item>
+        <item>Spring Boot</item>
+        <item>Kotlin</item>
+    </string-array>
+</resources>

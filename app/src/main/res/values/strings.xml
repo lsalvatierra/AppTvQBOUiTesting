@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppTvQBOUiTesting</string>
+    <string name="valetnombre">Ingrese su nombre</string>
+    <string name="valtvtitulo">UI TESTING CON ESPRESSO</string>
+    <string name="valetapellido">Ingrese su apellido</string>
+    <string name="valbtnregistrar">REGISTRAR</string>
+    <string name="valcbmasculino">Masculino</string>
+    <string name="valrbfemenino">Femenino</string>
+    <string name="valtvtitulolista">LISTA UI TESTING</string>
+    <string name="valtvcurso">Kotlin</string>
+</resources>
