@@ -48,6 +48,7 @@ class MainActivityTest{
         onView(withId(R.id.btnregistrar))
             .perform(click())
 
+        //Con el método intending(), que es similar a Mockito.when(), puedes proporcionar una respuesta de stub para las actividades que se inician con startActivityForResult().
         intending(hasExtraWithKey("nombre"))
 
         val datosRecibidos : Intent =
